@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "homepage": "https://manager428.github.io/react-gh-pages"
 }
